@@ -1,0 +1,12 @@
+rest (2)
+playNote (65, beats = 1.1)
+rest (2.2)
+playNote (64, beats = 1.1)
+rest (3.6)
+playNote (65, beats = 1.1)
+rest (1.8)
+playNote (64, beats = 1)
+rest (3.4)
+playNote ([53,57,60], beats= 1.1)  ###We press 3 keys at the same time to produce a harmony
+rest (14.4)
+rest(30)
