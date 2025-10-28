@@ -1,6 +1,6 @@
 # New TunePad cell
 rest(31.5)  ### Wait untill the guitar track comes in
-playNote([60,64,67], beats = 2.5)
+playNote([60,64,67], beats = 2.5)  ### the first positional argument is a list, aiming for pressing 3 keys at the same time
 rest(0.9)
 playNote([55,59,62], beats = 2.5)
 rest(1)
